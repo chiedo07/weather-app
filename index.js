@@ -18,4 +18,4 @@ async function checkWeather(city){
 
 search.addEventListener("click", () =>{
 checkWeather(searches.value);
-})
+});
